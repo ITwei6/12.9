@@ -1,0 +1,5 @@
+﻿  game.c
+D:\vs练习\12.9\game.h(1,1): warning C4828: 文件包含在偏移 0x1a3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\vs练习\12.9\game.c(4,1): warning C4142: "Initboard": 类型的良性重定义
+D:\vs练习\12.9\game.h(12): message : 参见“Initboard”的声明
+  12.9.vcxproj -> D:\vs练习\12.9\x64\Debug\12.9.exe
